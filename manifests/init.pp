@@ -48,7 +48,7 @@ class timezone (
   $autoupgrade = false
 ) inherits timezone::params {
 
-  validate_bool($autoupgrade)
+  #validate_bool($autoupgrade)
 
   case $ensure {
     /(present)/: {
