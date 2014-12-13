@@ -36,9 +36,9 @@
     }
   ],
   "name": "saz-timezone",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "source": "git://github.com/saz/puppet-timezone",
-  "author": "kartouch, saz",
+  "author": "kartouch",
   "license": "Apache License, Version 2.0",
   "summary": "UNKNOWN",
   "description": "Manage timezone settings via Puppet",
